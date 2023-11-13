@@ -13,6 +13,14 @@ Welcome to the Machine Vision for Online Store Product Classification Project, a
 
 Explore our GitHub repository for the source code, detailed documentation, and insights into the realm of machine vision in e-commerce.
 
+
 ## Contact
 
-- [Your Name](Your LinkedIn Profile Link)
+- [Mahdiyar Raees Almohaddesin](www.linkedin.com/in/mahdiyar-raees-almohaddesin-526b32159)
+
+### Authored By
+[Mahdiyar Raeesolmhadessin](https://github.com/mahdiyar-raees)
+[Nazanin Zarei](https://github.com/nazaninzareirad)
+[Narges Mohebi](https://github.com/nargesmhebbi)
+[Mehrdad Salehi]
+[Sajjad Mohammadi](https://github.com/SajjadMohammadi2020)
